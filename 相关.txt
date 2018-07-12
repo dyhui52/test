@@ -1,0 +1,44 @@
+sktpe for bussiness
+microsoft teams
+
+vs code
+
+koa
+express
+doker
+
+react native
+
+aws 报表
+
+powerBI 
+azure bob 存储图片
+
+email
+https://webmail.symbio.com
+hpper
+https://hopper.symbio.com
+
+cross-env
+babel
+
+
+
+https://www.liaoxuefeng.com/
+https://i5ting.github.io/nodejs-fullstack/
+https://cnodejs.org/
+http://www.ruanyifeng.com/
+
+docker入门
+http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html
+es6
+http://es6.ruanyifeng.com/#docs/intro
+
+redux
+fetch
+
+注释：        先CTRL+K，然后CTRL+C
+
+取消注释： 先CTRL+K，然后CTRL+U
+
+keycloak
